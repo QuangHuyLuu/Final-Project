@@ -6,8 +6,8 @@ Mục tiêu của dự án là xây dựng các mô hình học máy để **d�
 
 ## 📊 Dữ Liệu Sử Dụng
 
-Dữ liệu được lấy từ Kaggle: Diamonds Price Dataset
-
+Dữ liệu được lấy từ Kaggle: [Diamonds Price Dataset
+](https://www.kaggle.com/datasets/amirhosseinmirzaie/diamonds-price-dataset/data)
 Dataset gồm hơn 50.000 mẫu, với các biến:
 
 | Tên biến  | Mô tả                                                                                                               |
