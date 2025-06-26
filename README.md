@@ -39,7 +39,7 @@ Dự án được thực hiện hoàn toàn bằng **Python**, sử dụng các 
 * `scikit-learn`: Xây dựng mô hình Linear Regression, Random Forest
 * `xgboost`: Mô hình XGBoost
 * `lightgbm`: Mô hình LightGBM
-* `statsmodels`: Kiểm tra đa cộng tuyến (VIF), kiểm định mô hình
+* `statsmodels`: Kiểm định mô hình
 
 ## 🤖 Mô Hình Áp Dụng
 
