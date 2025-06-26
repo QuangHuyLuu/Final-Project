@@ -8,13 +8,19 @@ Mục tiêu của dự án là xây dựng các mô hình học máy để **d�
 
 Dataset được sử dụng là **`diamonds.csv`** với hơn 50.000 mẫu kim cương, gồm các đặc trưng:
 
-* `carat`: Trọng lượng của kim cương (carat)
-* `cut`: Chất lượng cắt (Fair, Good, Very Good, Premium, Ideal)
-* `color`: Màu sắc (D đến J, D là tốt nhất)
-* `clarity`: Độ trong (I1 đến IF)
-* `depth`, `table`: Các chỉ số hình học
-* `x`, `y`, `z`: Kích thước chiều dài, chiều rộng, chiều cao (mm)
-* `price`: Giá kim cương (USD)
+| Tên biến  | Mô tả                                                                                                               |
+| --------- | ------------------------------------------------------------------------------------------------------------------- |
+| `carat`   | **Trọng lượng kim cương** (tính bằng carat)                                                                         |
+| `cut`     | **Chất lượng cắt** của viên kim cương (`Fair`, `Good`, `Very Good`, `Premium`, `Ideal`)                             |
+| `color`   | **Màu sắc kim cương** — từ `J` (kém nhất) đến `D` (tốt nhất)                                                        |
+| `clarity` | **Độ trong suốt của kim cương**, theo thứ tự từ kém đến tốt: `I1`, `SI2`, `SI1`, `VS2`, `VS1`, `VVS2`, `VVS1`, `IF` |
+| `x`       | **Chiều dài** của kim cương (mm)                                                                                    |
+| `y`       | **Chiều rộng** của kim cương (mm)                                                                                   |
+| `z`       | **Độ sâu** của kim cương (mm)                                                                                       |
+| `depth`   | **Tỷ lệ chiều sâu**, tính bằng công thức: `z / mean(x, y)`                                                          |
+| `table`   | **Đường kính phần trên cùng rộng nhất** của kim cương (%)                                                           |
+| `price`   | **Giá của kim cương** (USD) — *biến mục tiêu cần dự đoán*                                                           |
+
 
 ## 🛠️ Công Cụ Sử Dụng
 
