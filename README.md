@@ -51,3 +51,5 @@ Hiệu suất các mô hình được đánh giá bằng các chỉ số:
 * **R² (Hệ số xác định)**: Mức độ giải thích phương sai của mô hình
 * **RMSE (Root Mean Squared Error)**: Sai số trung bình
 
+Các mô hình boosting (XGBoost, LightGBM) đạt kết quả dự đoán tốt nhất, cho thấy khả năng học phi tuyến và tối ưu hóa sai số vượt trội so với mô hình tuyến tính.
+
