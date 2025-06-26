@@ -6,7 +6,9 @@ Mục tiêu của dự án là xây dựng các mô hình học máy để **d�
 
 ## 📊 Dữ Liệu Sử Dụng
 
-Dataset được sử dụng là **`diamonds.csv`** với hơn 50.000 mẫu kim cương, gồm các đặc trưng:
+Dữ liệu được lấy từ Kaggle: Diamonds Price Dataset
+
+Dataset gồm hơn 50.000 mẫu, với các biến:
 
 | Tên biến  | Mô tả                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------- |
