@@ -23,8 +23,9 @@ Dataset gồm 50.000 mẫu, với các biến:
 | `table`   | **Đường kính phần trên cùng rộng nhất** của kim cương (%)                                                           |
 | `price`   | **Giá của kim cương** (USD) — *biến mục tiêu cần dự đoán*                                                           |
 
-🔍 Các bước thực hiện:
-Data Cleaning:
+## 🔍 Các bước thực hiện:
+
+1. Data Cleaning:
 EDA (Phân tích dữ liệu khám phá):
 Modeling:
 Evaluation:
