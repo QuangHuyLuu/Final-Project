@@ -25,10 +25,10 @@ Dataset gồm 50.000 mẫu, với các biến:
 
 ## 🔍 Các bước thực hiện:
 
-1. Data Cleaning:
-EDA (Phân tích dữ liệu khám phá):
-Modeling:
-Evaluation:
+1. Data Cleaning
+2. EDA (Phân tích dữ liệu khám phá)
+3. Modeling
+4. Evaluation
 
 ## 🛠️ Công Cụ Sử Dụng
 
